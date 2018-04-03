@@ -1,0 +1,7 @@
+﻿{
+  "itemDisplayName": "TLG-Base-Config_3-VM",
+  "description": "",
+  "summary": "Deploys 3 VMs: AD DC, app server and Windows 10 client. Provisions an AD domain and joins member VMs.",
+  "githubUsername": "kelleyvice-msft",
+  "dateUpdated": "2018-3-29"
+}
